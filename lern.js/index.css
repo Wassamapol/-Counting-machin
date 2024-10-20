@@ -1,0 +1,30 @@
+body{
+    background-color: beige;
+}
+
+
+#countLabel {
+    margin-top: 19rem;
+    display: block;
+    text-align: center;
+    font-size: 15em;
+    font-family: Helvetica;
+    
+}
+
+#btnContainer{
+    text-align: center;
+}
+
+.buttons {
+    padding: 10px 20px;
+    font-size: 2.5em;
+    color: aliceblue;
+    background-color: rgb(127, 28, 58);
+    border-radius: 5px;
+    transition: background-color 0.25s;
+}
+
+.buttons:hover{
+    background-color: rgb(126, 11, 46);
+}
