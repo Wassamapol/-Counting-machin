@@ -28,3 +28,7 @@ body{
 .buttons:hover{
     background-color: rgb(126, 11, 46);
 }
+
+@media (max-width: 1000px) {
+  
+    }
